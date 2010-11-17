@@ -1,0 +1,1 @@
+gitdiff.vba: call delete('/home/mchabot/.vim/plugin/gitdiff.vim')
